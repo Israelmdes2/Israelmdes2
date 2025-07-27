@@ -19,12 +19,10 @@ Sou apaixonado por automação e tecnologia. Minha missão é simplificar proces
 - 📈 **Power Query** e automação de relatórios em Excel
 
 ---
-### 🎮 Meu gráfico de contribuições em modo animação
-
+<!-- ### 🎮 Meu gráfico de contribuições em modo animação -->
 <p align="center">
   <img src="https://israelmdes2.github.io/Israelmdes2/pacman-contribution-graph.svg" alt="pacman animation" />
 </p>
-
 ## 🧩 Competências
 
 - Desenvolvimento de Automações Complexas
