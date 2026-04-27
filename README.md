@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Israel Mariano
 
-🎯 **Desenvolvedor RPA | Python | UiPath | Power Automate | IA | BI**
+🎯 **Desenvolvedor RPA | Python | UiPath | Power Automate | IA |**
 
 Sou apaixonado por automação e tecnologia. Minha missão é simplificar processos, economizar tempo e aumentar a eficiência com soluções robustas e escaláveis.
 
